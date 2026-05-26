@@ -58,6 +58,3 @@ Embedded    ESP32-S3 · IMU · MQTT · Edge Deployment
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitAwasthi2411&show_icons=true&hide_border=true&theme=dark" />
-</p>
