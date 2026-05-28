@@ -130,13 +130,12 @@ Features Engineered        █████████████████�
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitAwasthi2411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&include_all_commits=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitAwasthi2411&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![](https://img.shields.io/badge/Repos-17-2ECC71?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/GATE_AIR-430-FF5733?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
