@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Arpit+Awasthi+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;IEEE+First+Author+%7C+GATE+AIR+430;Building+AI+that+works+in+the+real+world)](https://git.io/typing-svg)
 
-<img src="https://avatars.githubusercontent.com/u/180748881?v=4" width="120" style="border-radius: 50%"/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-awasthi-196974212)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://arpitawasthi2411.github.io)
 [![IEEE Paper](https://img.shields.io/badge/IEEE_Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11400404)
@@ -31,7 +29,6 @@ class ArpitAwasthi:
         }
         self.focus       = ["Applied AI Research", "Edge AI", "Embedded Systems", "Computer Vision"]
         self.publications = 2   # IEEE + National Seminar, First Author both
-        self.currently   = "IIT Madras projects + Internship hunting + GATE prep"
 
     def quote(self):
         return "Build systems that work in the real world, not just on benchmarks."
@@ -137,10 +134,9 @@ Features Engineered        █████████████████�
 
 <div align="center">
 
-![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitAwasthi2411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitAwasthi2411&theme=tokyonight&hide_border=true&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArpitAwasthi2411&theme=tokyonight&hide_border=true)
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitAwasthi2411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&include_all_commits=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitAwasthi2411&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
